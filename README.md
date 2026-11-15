@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:E11D48&height=210&section=header&text=Eduardo%20Augusto%20Miranda%20Junior&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Software%20Developer%20%7C%20UI%2FUX%20%26%203D%20Designer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:E11D48&height=160&section=header&animation=fadeIn" width="100%" />
 
 <!-- LOGO PRINCIPAL NO TOPO (Substitua ./assets/logo-lanne.png pelo arquivo do seu logo) -->
 <img src="./assets/logo-lanne.png" alt="Logo" width="90" />
