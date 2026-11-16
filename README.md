@@ -84,6 +84,8 @@
         <img src="https://img.shields.io/badge/FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
         <img src="https://img.shields.io/badge/Linux_%26_TUI-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
         <img src="https://img.shields.io/badge/RAG_%26_ML-18181B?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="ML" />
+        <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+        <br /><br />
         <br /><br />
         <a href="https://github.com/GerlachSG/lanne.ai">
           <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-312E81?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Repo Lanne" />
@@ -142,10 +144,15 @@
         <li>Agente IA no <strong>n8n + Groq</strong> com <em>Tool Calling</em> sob demanda no Firestore e telemetria de câmara fria via <strong>ESP32</strong> + servidor Python.</li>
       </ul>
       <div align="center">
-        <img src="https://img.shields.io/badge/React_Native-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-18181B?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
         <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/HTML5_%26_CSS3-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML/CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
         <img src="https://img.shields.io/badge/n8n_%26_Groq_AI-18181B?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n & AI" />
+        <img src="https://img.shields.io/badge/Azure-18181B?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
+        <img src="https://img.shields.io/badge/C%23_%26_Arduino-18181B?style=flat-square&logo=arduino&logoColor=00878F" alt="C# & Arduino" />
         <img src="https://img.shields.io/badge/ESP32_%26_Firebase-18181B?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32 & Firebase" />
+        <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
         <br /><br />
         <a href="https://github.com/GerlachSG/GestaoEstoquePanificadora-IHM-IOT">
           <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-312E81?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Repo GesPão" />
