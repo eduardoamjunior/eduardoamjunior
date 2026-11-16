@@ -139,6 +139,7 @@
       <br />
       <a href="./assets/pitch-lanneai-2024.pdf"><img src="https://img.shields.io/badge/PITCH_(2024)-0F766E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch Lanne 2024" /></a>
       <a href="./assets/pitch-lanneai-2025.pdf"><img src="https://img.shields.io/badge/PITCH_(2025)-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch Lanne 2025" /></a>
+      <br />
     </td>
     <td width="33.3%" align="center" valign="middle">
     <br />
@@ -146,12 +147,14 @@
       <a href="https://gerlachsg.github.io/rangoraro/src/pages/index"><img src="https://img.shields.io/badge/DEMO_AO_VIVO-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" alt="Demo Rango Raro" /></a>
       <br />
       <a href="./assets/pitch-rangoraro.pdf"><img src="https://img.shields.io/badge/%E2%80%80%E2%80%80%E2%80%80PITCH%E2%80%80%E2%80%80%E2%80%80-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch Rango Raro" /></a>
+      <br />
     </td>
     <td width="33.3%" align="center" valign="middle">
     <br />
       <a href="https://github.com/GerlachSG/GestaoEstoquePanificadora-IHM-IOT"><img src="https://img.shields.io/badge/%E2%80%80REPOSIT%C3%93RIO%E2%80%80-312E81?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Repo GesPão" /></a>
       <br />
       <a href="./assets/pitch-gespao.pdf"><img src="https://img.shields.io/badge/%E2%80%80%E2%80%80%E2%80%80PITCH%E2%80%80%E2%80%80%E2%80%80-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch GesPão" /></a>
+      <br />
     </td>
   </tr>
 </table>
