@@ -73,6 +73,8 @@
         <li>Interface TUI modular (Textual/Rich) e contratos padronizados com Pydantic v2.</li>
         <li><strong>Medalha de Ouro</strong> no TCC SENAI (2024), apresentado para +200 pessoas e banca técnica.</li>
       </ul>
+      <br />
+      <br />
     </td>
     <td width="33.3%" valign="top">
       <div align="center">
@@ -98,7 +100,7 @@
         <strong>Ecossistema industrial mobile, IoT e Copiloto IA para controle de estoque e produção em panificadoras.</strong>
       </p>
       <ul>
-        <li>App <strong>React Native (Expo)</strong> <em>offline-first</em> (fila de sincronização e cache) com scanner de código de barras/QR, algoritmo <strong>FEFO</strong> e gestão de fornadas/perdas.</li>
+        <li>App React Native (Expo) <em>offline-first</em> (fila de sincronização e cache) com scanner de código de barras/QR, algoritmo <strong>FEFO</strong> e gestão de fornadas/perdas.</li>
         <li>Agente IA no <strong>n8n + Groq</strong> com <em>Tool Calling</em> sob demanda no Firestore e telemetria de câmara fria via <strong>ESP32</strong> + servidor Python.</li>
       </ul>
     </td>
@@ -112,6 +114,7 @@
       <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
     </td>
     <td width="33.3%" align="center" valign="middle">
+    <br />
       <img src="https://img.shields.io/badge/HTML5_%26_CSS3-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML/CSS" />
       <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
@@ -131,18 +134,21 @@
   </tr>
   <tr>
     <td width="33.3%" align="center" valign="middle">
+    <br />
       <a href="https://github.com/GerlachSG/lanne.ai"><img src="https://img.shields.io/badge/%E2%80%80REPOSIT%C3%93RIO%E2%80%80-312E81?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Repo Lanne" /></a>
       <br />
       <a href="./assets/pitch-lanneai-2024.pdf"><img src="https://img.shields.io/badge/PITCH_(2024)-0F766E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch Lanne 2024" /></a>
       <a href="./assets/pitch-lanneai-2025.pdf"><img src="https://img.shields.io/badge/PITCH_(2025)-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch Lanne 2025" /></a>
     </td>
     <td width="33.3%" align="center" valign="middle">
+    <br />
       <a href="https://github.com/GerlachSG/rangoraro"><img src="https://img.shields.io/badge/%E2%80%80REPOSIT%C3%93RIO%E2%80%80-312E81?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Repo Rango Raro" /></a>
       <a href="https://gerlachsg.github.io/rangoraro/src/pages/index"><img src="https://img.shields.io/badge/DEMO_AO_VIVO-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" alt="Demo Rango Raro" /></a>
       <br />
       <a href="./assets/pitch-rangoraro.pdf"><img src="https://img.shields.io/badge/%E2%80%80%E2%80%80%E2%80%80PITCH%E2%80%80%E2%80%80%E2%80%80-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch Rango Raro" /></a>
     </td>
     <td width="33.3%" align="center" valign="middle">
+    <br />
       <a href="https://github.com/GerlachSG/GestaoEstoquePanificadora-IHM-IOT"><img src="https://img.shields.io/badge/%E2%80%80REPOSIT%C3%93RIO%E2%80%80-312E81?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Repo GesPão" /></a>
       <br />
       <a href="./assets/pitch-gespao.pdf"><img src="https://img.shields.io/badge/%E2%80%80%E2%80%80%E2%80%80PITCH%E2%80%80%E2%80%80%E2%80%80-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch GesPão" /></a>
