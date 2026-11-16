@@ -68,7 +68,7 @@
     <td width="33.3%" valign="top">
       <div align="center">
         <h3>Lanne.ai</h3>
-        <img src="./assets/lanne-preview.gif" alt="Lanne.ai Preview" width="100%" />
+        <img src="./assets/lanne-preview.png" alt="Lanne.ai Preview" width="100%" />
       </div>
       <br />
       <p>
@@ -164,7 +164,7 @@
 
 <div align="center">
   <p>
-    <img src="https://skills.syvixor.com/api/icons?i=n8n,googleantigravity,claudecode,firebasestudio,githubcopilot, googlegemini,chatgpt&perline=12&radius=40" alt="IA e Automação" />
+    <img src="https://skills.syvixor.com/api/icons?i=n8n,googleantigravity,claudecode,firebasestudio,githubcopilot,googlegemini,chatgpt&perline=12&radius=40" alt="IA e Automação" />
   </p>
   <p>
     <img src="https://skills.syvixor.com/api/icons?i=python,html,css,java,git,github&perline=12&radius=40" alt="Programação" />
