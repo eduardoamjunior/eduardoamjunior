@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:E11D48&height=160&section=header&animation=fadeIn" width="100%" />
 
-<!-- LOGO PRINCIPAL NO TOPO (Substitua ./assets/logo-lanne.png pelo arquivo do seu logo) -->
 <img src="./assets/logo-lanne.png" alt="Logo" width="90" />
 
 <br />
@@ -73,19 +72,28 @@
       </div>
       <br />
       <p>
-        <strong>Agente de IA especialista em suporte e diagnóstico Linux multi-distro direto no terminal.</strong>
+        <strong>Agente de IA para administração e diagnóstico Linux multi-distro com interface de terminal (TUI).</strong>
       </p>
       <ul>
-        <li>Arquitetura baseada em raciocínio e ação (ReAct) para automação de troubleshooting, configuração e manutenção.</li>
+        <li>Arquitetura de <strong>6 microsserviços (FastAPI)</strong> com API Gateway, motor RAG vetorial próprio e classificador de intenção em Machine Learning (Scikit-Learn) para execução segura de comandos.</li>
+        <li>Interface TUI modular (Textual/Rich) e contratos padronizados com Pydantic v2.</li>
         <li><strong>Medalha de Ouro</strong> no TCC SENAI (2024), apresentado para +200 pessoas e banca técnica.</li>
       </ul>
       <div align="center">
         <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-        <img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-        <img src="https://img.shields.io/badge/AI_Agents-18181B?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+        <img src="https://img.shields.io/badge/FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Linux_%26_TUI-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+        <img src="https://img.shields.io/badge/RAG_%26_ML-18181B?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="ML" />
         <br /><br />
         <a href="https://github.com/GerlachSG/lanne.ai">
           <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-312E81?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Repo Lanne" />
+        </a>
+        <br />
+        <a href="./assets/pitch-lanneai-2024.pdf">
+          <img src="https://img.shields.io/badge/PITCH_(2024)-0F766E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch Lanne 2024" />
+        </a>
+        <a href="./assets/pitch-lanneai-2025.pdf">
+          <img src="https://img.shields.io/badge/PITCH_(2025)-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch Lanne 2025" />
         </a>
       </div>
     </td>
@@ -96,15 +104,16 @@
       </div>
       <br />
       <p>
-        <strong>Plataforma web de delivery gamificado com caixas probabilísticas e resgate via PIX.</strong>
+        <strong>Plataforma web de delivery gamificado com caixas gastronômicas probabilísticas e economia interna.</strong>
       </p>
       <ul>
-        <li>Mecânica de <em>loot boxes</em> gastronômicas com conversão instantânea de itens em saldo digital.</li>
-        <li>Design completo no Figma, animações 3D em CSS, Firebase Auth/Firestore e CDN.</li>
+        <li>Mecânica de <em>loot boxes</em> com probabilidades reais, conversão instantânea de pratos em saldo digital, sistema de XP, rifas e vitrine de prêmios.</li>
+        <li>Design autoral no Figma, animações 3D em CSS, operação de entregas/avaliações, painel Admin e persistência no Firebase (Auth &amp; Firestore).</li>
       </ul>
       <div align="center">
         <img src="https://img.shields.io/badge/HTML5_%26_CSS3-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML/CSS" />
-        <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
         <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
         <br /><br />
         <a href="https://github.com/GerlachSG/rangoraro">
@@ -112,6 +121,10 @@
         </a>
         <a href="https://gerlachsg.github.io/rangoraro/src/pages/index">
           <img src="https://img.shields.io/badge/DEMO_AO_VIVO-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" alt="Demo Rango Raro" />
+        </a>
+        <br />
+        <a href="./assets/pitch-rangoraro.pdf">
+          <img src="https://img.shields.io/badge/PITCH-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch Rango Raro" />
         </a>
       </div>
     </td>
@@ -122,19 +135,23 @@
       </div>
       <br />
       <p>
-        <strong>Gestão inteligente de estoque e produção para panificadoras com foco em redução de perdas.</strong>
+        <strong>Ecossistema industrial mobile, IoT e Copiloto IA para controle de estoque e produção em panificadoras.</strong>
       </p>
       <ul>
-        <li>Controle rigoroso de validade (FEFO) via leitura de código de barras e alertas automatizados.</li>
-        <li>Protótipo de interface no Figma, automação com n8n, LLMs e telemetria IoT.</li>
+        <li>App <strong>React Native (Expo)</strong> <em>offline-first</em> (fila de sincronização e cache) com scanner de código de barras/QR, algoritmo <strong>FEFO</strong> e gestão de fornadas/perdas.</li>
+        <li>Agente IA no <strong>n8n + Groq</strong> com <em>Tool Calling</em> sob demanda no Firestore e telemetria de câmara fria via <strong>ESP32</strong> + servidor Python.</li>
       </ul>
       <div align="center">
-        <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
-        <img src="https://img.shields.io/badge/Azure-18181B?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
-        <img src="https://img.shields.io/badge/IoT_%26_n8n-18181B?style=flat-square&logo=n8n&logoColor=EA4B71" alt="IoT" />
+        <img src="https://img.shields.io/badge/React_Native-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/n8n_%26_Groq_AI-18181B?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n & AI" />
+        <img src="https://img.shields.io/badge/ESP32_%26_Firebase-18181B?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32 & Firebase" />
         <br /><br />
         <a href="https://github.com/GerlachSG/GestaoEstoquePanificadora-IHM-IOT">
           <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-312E81?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Repo GesPão" />
+        </a>
+        <a href="./assets/pitch-gespao.pdf">
+          <img src="https://img.shields.io/badge/PITCH-0D9488?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="32" alt="Pitch GesPão" />
         </a>
       </div>
     </td>
@@ -146,17 +163,17 @@
 <h2>Stack &amp; Ecossistema Técnico</h2>
 
 <div align="center">
-  <!-- Linha 1: Programação -->
   <p>
-    <img src="https://skillicons.dev/icons?i=python,html,css,java,git" alt="Programação" />
+    <img src="https://skills.syvixor.com/api/icons?i=n8n,googleantigravity,claudecode,firebasestudio,githubcopilot, googlegemini,chatgpt&perline=12&radius=40" alt="IA e Automação" />
   </p>
-  <!-- Linha 2: Cloud & Infraestrutura -->
   <p>
-    <img src="https://skillicons.dev/icons?i=firebase,azure,gcp,aws,linux" alt="Cloud e Infra" />
+    <img src="https://skills.syvixor.com/api/icons?i=python,html,css,java,git,github&perline=12&radius=40" alt="Programação" />
   </p>
-  <!-- Linha 3: Design & 3D -->
   <p>
-    <img src="https://skillicons.dev/icons?i=figma,blender,unreal" alt="Design e 3D" />
+    <img src="https://skills.syvixor.com/api/icons?i=firebase,azure,googlecloud,amazonwebservices,linux,debian,windows&perline=12&radius=40" alt="Cloud e Infra" />
+  </p>
+  <p>
+    <img src="https://skills.syvixor.com/api/icons?i=figma,blender,photoshop,adobepremierepro,canva&perline=12&radius=40" alt="Design e 3D" />
   </p>
 </div>
 
@@ -172,19 +189,19 @@
   <tbody>
     <tr>
       <td><strong>IA &amp; Automação</strong></td>
-      <td>Python, Engenharia de Prompts, Avaliação &amp; Fine-tuning de LLMs, Agentes (ReAct), Workflows n8n</td>
+      <td>Engenharia de Prompts, Análise de Qualidade de IA (LLMs), Agentes Autônomos (ReAct &amp; Tool Calling), RAG, Workflows no n8n</td>
     </tr>
     <tr>
-      <td><strong>Desenvolvimento</strong></td>
-      <td>HTML5, CSS3, Python, Java (Base), Git &amp; GitHub</td>
+      <td><strong>Desenvolvimento &amp; AI Dev</strong></td>
+      <td>Python (FastAPI), HTML5, CSS3, Java (Base), Git &amp; GitHub,Claude Code, Antigravity</td>
     </tr>
     <tr>
-      <td><strong>Cloud &amp; Infraestrutura</strong></td>
-      <td>Firebase (Firestore &amp; Auth), Microsoft Azure (AI-901 &amp; AZ-900), Google Cloud Platform, AWS, Linux</td>
+      <td><strong>Cloud, IoT &amp; Infraestrutura</strong></td>
+      <td>Firebase (Firestore &amp; Auth), AWS (Cloud Foundations), Microsoft Azure (AI-901 &amp; AZ-900), Google Cloud Platform, Linux (Multi-distro), ESP32</td>
     </tr>
     <tr>
-      <td><strong>Design &amp; 3D</strong></td>
-      <td>Figma (UI/UX &amp; Design Systems), Blender, Autodesk Maya, Substance 3D Painter, Unreal Engine</td>
+      <td><strong>Design, UI/UX &amp; 3D</strong></td>
+      <td>Figma (UI/UX &amp; Prototipação), Canva, Blender, Autodesk Maya, ZBrush, Substance 3D Painter, Photoshop, Unreal Engine</td>
     </tr>
   </tbody>
 </table>
